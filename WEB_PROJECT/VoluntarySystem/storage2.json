@@ -1,0 +1,203 @@
+{
+    "code": 1,
+    "message": "Retrieved successfully",
+    "items": [
+        {
+            "id": "1",
+            "name": "Banana",
+            "category": "1"
+            
+          },
+          {
+            "id": "2",
+            "name": "Apple",
+            "category": "1"
+            
+          },
+          {
+            "id": "3",
+            "name": "Bread",
+            "category": "1"
+            
+          },
+          {
+            "id": "4",
+            "name": "Rice",
+            "category": "1"
+            
+          },
+          {
+            "id": "5",
+            "name": "Canned Food",
+            "category": "1"
+            
+          },
+          {
+            "id": "6",
+            "name": "Biscuits",
+            "category": "1"
+            
+          },
+          {
+            "id": "7",
+            "name": "Meat",
+            "category": "1"
+            
+          },
+          {
+            "id": "8",
+            "name": "Spaggheti",
+            "category": "1"
+            
+          },
+          {
+            "id": "9",
+            "name": "Tomatoes",
+            "category": "1"
+            
+          },
+          {
+            "id": "10",
+            "name": "Strawberries",
+            "category": "1"
+            
+          },
+          {
+            "id": "11",
+            "name": "Short Sleeve",
+            "category": "2"
+            
+          },
+          {
+            "id": "12",
+            "name": "Sweater",
+            "category": "2"
+            
+          },
+          {
+            "id": "13",
+            "name": "Underwear",
+            "category": "2"
+            
+          },
+          {
+            "id": "14",
+            "name": "Socks",
+            "category": "2"
+            
+          },
+          {
+            "id": "15",
+            "name": "Long Sleeve",
+            "category": "2"
+            
+          },
+          {
+            "id": "16",
+            "name": "T-shirt",
+            "category": "2"
+            
+          },
+          {
+            "id": "17",
+            "name": "Outerwear",
+            "category": "2"
+            
+          },
+          {
+            "id": "18",
+            "name": "Shoes",
+            "category": "2"
+            
+          },
+          {
+            "id": "19",
+            "name": "Room Shoes",
+            "category": "2"
+            
+          },
+          {
+            "id": "20",
+            "name": "Hoodie",
+            "category": "2"
+            
+          },
+          {
+            "id": "21",
+            "name": "Pain-Killers",
+            "category": "3"
+            
+          },
+          {
+            "id": "22",
+            "name": "Vitamins",
+            "category": "3"
+            
+          },
+          {
+            "id": "23",
+            "name": "Pressure Pills",
+            "category": "3"
+            
+          },
+          {
+            "id": "24",
+            "name": "XanaX",
+            "category": "3"
+            
+          },
+          {
+            "id": "25",
+            "name": "Syringes",
+            "category": "3"
+            
+          },
+          {
+            "id": "26",
+            "name": "Bandages",
+            "category": "3"
+            
+          },
+          {
+            "id": "27",
+            "name": "Thermometer",
+            "category": "3"
+            
+          },
+          {
+            "id": "28",
+            "name": "Neck Collars",
+            "category": "3"
+            
+          },
+          {
+            "id": "29",
+            "name": "Antibiotics",
+            "category": "3"
+            
+          },
+          {
+            "id": "30",
+            "name": "Stitches",
+            "category": "3"
+            
+          }
+
+    ],
+    "categories": [
+        {
+            "id": "1",
+            "category_name": "Food"
+        },
+
+        {
+            "id": "2",
+            "category_name": "Clothes"
+        },
+
+        {
+            "id": "3",
+            "category_name": "Medical Supplies"
+        }
+    ]
+}
